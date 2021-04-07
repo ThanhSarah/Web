@@ -1,0 +1,33 @@
+.my-form {
+  width: 450px;
+  margin: 0 auto;
+  align-self: auto;
+}
+
+.tab {
+    width: 50%;
+}
+
+.nav-link {
+    text-align: center;
+}
+.my-form2{
+    width: 450px;
+    margin: 0 auto;
+    align-self: auto;
+}
+h2{ color: black;
+    width: auto;
+    font-size: 15px  ;
+    margin: 20px;
+    margin-left: 200px;
+}
+.input-box3{
+    margin-left: 150px;
+    margin-top: 100px;
+
+}
+.col-6{
+    margin-top: 20px;
+  
+}

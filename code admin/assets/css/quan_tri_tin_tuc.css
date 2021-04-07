@@ -1,0 +1,14 @@
+.my-custom-header {
+    width: 500px;
+    background: blueviolet ;
+   margin: 80px 250px !important;
+}
+.active tab{
+    margin-top: 400px  !important;
+}
+.tab-contents{
+    margin-top: 100px !important;
+}
+.nav-tabs{
+    margin left: 100px;
+}
